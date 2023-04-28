@@ -3,11 +3,14 @@
 This is Travel guide Catalog Web App.
 
 In this Web App we use-
+
 1- React.js.
+
 2- React-Hooks
+
 3- Use "better-react-carousel" npm for using Carousel.
 
-Below we mentioned some Image of this Web App for ypur reference-
+Below we mentioned some Image of this Web App for your reference-
 
 
 ![Screenshot_20230428_135348](https://user-images.githubusercontent.com/120721761/235096948-4083676a-f2ee-48c6-9c8e-7df5cf482c2b.png)
@@ -33,6 +36,9 @@ Features are below mentioned for your reference-
 4- Clicking the previous button when the first image is showing should display the last image(cycling).
 
 5- Clicking on any thumbnail should show that image with details.
+
+
+
 
 
 
