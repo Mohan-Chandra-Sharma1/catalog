@@ -1,5 +1,44 @@
 # Getting Started with Create React App
 
+This is Travel guide Catalog Web App.
+
+In this Web App we use-
+1- React.js.
+2- React-Hooks
+3- Use "better-react-carousel" npm for using Carousel.
+
+Below we mentioned some Image of this Web App for ypur reference-
+
+
+![Screenshot_20230428_135348](https://user-images.githubusercontent.com/120721761/235096948-4083676a-f2ee-48c6-9c8e-7df5cf482c2b.png)
+
+
+
+![Screenshot_20230428_135314](https://user-images.githubusercontent.com/120721761/235096992-557be1ce-90a2-45b2-abfd-b8bbb5a2e29a.png)
+
+
+
+![Screenshot_20230428_135407](https://user-images.githubusercontent.com/120721761/235097026-2be3e7f7-e268-43e6-b013-57b1c466c767.png)
+
+
+
+Features are below mentioned for your reference-
+
+1- The catalog shows the first image with its details (Random text) on right when opened.
+
+2- Clicking on the previous or next button displays the previous or next image with details respectively.
+
+3- Clicking the next button when the last image is showing should display the first image(cycling).
+
+4- Clicking the previous button when the first image is showing should display the last image(cycling).
+
+5- Clicking on any thumbnail should show that image with details.
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
